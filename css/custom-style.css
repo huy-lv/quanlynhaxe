@@ -1,0 +1,19 @@
+#col-right{
+float: right;
+width: 70%;
+margin: 2% 0 0 0;
+
+
+}
+
+#col-left{
+width: 25%;
+float: left;
+
+
+}
+
+.form-style > label,.form-style >input{
+	margin-top:10px;
+
+}

@@ -1,0 +1,18 @@
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'dbfunbus' in /home/ubuntu/workspace/config.php on line 9
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP Stack trace:
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/ubuntu/workspace/html/product_template.php:0
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP   2. include() /home/ubuntu/workspace/html/product_template.php:6
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP   3. mysqli_connect() /home/ubuntu/workspace/config.php:9
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/config.php on line 10
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP Stack trace:
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/ubuntu/workspace/html/product_template.php:0
+[10-Apr-2017 20:48:50 Asia/Ho_Chi_Minh] PHP   2. include() /home/ubuntu/workspace/html/product_template.php:6
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'dbfunbus' in /home/ubuntu/workspace/config.php on line 9
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP Stack trace:
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/ubuntu/workspace/html/product_template.php:0
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP   2. include() /home/ubuntu/workspace/html/product_template.php:6
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP   3. mysqli_connect() /home/ubuntu/workspace/config.php:9
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/config.php on line 10
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP Stack trace:
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/ubuntu/workspace/html/product_template.php:0
+[10-Apr-2017 20:51:04 Asia/Ho_Chi_Minh] PHP   2. include() /home/ubuntu/workspace/html/product_template.php:6
